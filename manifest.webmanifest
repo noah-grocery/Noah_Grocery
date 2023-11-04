@@ -1,15 +1,15 @@
 {
-  "name": "Github Page PWA",
-  "short_name": "GPPWA",
-  "description": "Github Page as a Progressive Web App",
-  "scope": "/github-page-pwa/",
-  "start_url": "/github-page-pwa/",
+  "name": "Noah Grocery",
+  "short_name": "NG",
+  "description": "Noah Grocery",
+  "scope": "/Noah_Grocery/",
+  "start_url": "/Noah_Grocery/",
   "background_color": "#ffffff",
   "theme_color": "#ffffff",
   "display": "standalone", 
   "icons": [
       {
-        "src": "/github-page-pwa/img/icon.png",
+        "src": "/Noah Grocery Logo.png",
         "type": "image/png",
         "sizes": "700x700"
       }
